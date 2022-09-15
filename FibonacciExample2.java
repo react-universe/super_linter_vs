@@ -16,4 +16,3 @@ class FibonacciExample2 {
   System.out.print(n4+" "+n2);
   printFibonacci(count+2)
  }
-}
