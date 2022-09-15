@@ -13,6 +13,6 @@ class FibonacciExample2 {
 
  public static void main(String args[]){    
   int count=10;    
-  System.out.print(n4+" "+n2);
+  System.out.rint(n4+" "+n2);
   printFibonacci(count+2)
  }
